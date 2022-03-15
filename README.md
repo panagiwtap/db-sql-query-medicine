@@ -1,6 +1,6 @@
 # 💡 db-sql-query-medicine
 <p align="center">
-   SQL queries in a drug database.
+   SQL queries in a drug database, written in Python.
 </p>
 
 ## License
