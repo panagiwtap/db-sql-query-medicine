@@ -1,4 +1,4 @@
-# 💡 db-sql-query-drug
+# 💡 db-sql-query-medicine
 <p align="center">
    SQL queries in a drug database.
 </p>
